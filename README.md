@@ -31,7 +31,7 @@ If you want to show SSAP effect on a different scene<br/>
 * Suppr : Dragon without SSAO
 
 If you want to move in the scene, you have to use the mouse :<br/>
-* left clic : rotation of the camera
+* left clic : rotation of the camera
 * middle clic : change repere 
 * right clic : zoom in/out
 
@@ -39,8 +39,10 @@ If you want to move in the scene, you have to use the mouse :<br/>
 
 Images
 ------
-![dragon SSAO](http://www.diane-delallee.fr/asserts/images/dragon.png)
+<img src="http://diane-delallee.fr/assets/images/dragon.png" width="49%">
 
 
 License
 ------
+![alt cc](https://licensebuttons.net/l/by/3.0/88x31.png)
+This work is licensed under a [Creative Commons Attribution 4.0 International License] (http://creativecommons.org/licenses/by/4.0/)
